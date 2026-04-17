@@ -1,0 +1,2 @@
+# AstralLounge-Plugin
+AstralLounge Plugin
